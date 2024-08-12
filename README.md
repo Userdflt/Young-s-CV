@@ -1,19 +1,22 @@
 # **YOUNG WOO SONG**
 *Aspiring Data Scientist - Seeking Opportunities*
 
-📞 ![phone](https://img.icons8.com/ios-filled/16/000000/phone.png) 02102400930  
-🌐 ![linkedin](https://img.icons8.com/ios-filled/16/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/young-woo-song-145488217/)  
-📧 ![email](https://img.icons8.com/ios-filled/16/000000/new-post.png) youngwoo930@gmail.com  
-📍 ![location](https://img.icons8.com/ios-filled/16/000000/marker.png) Auckland
+ ![phone](https://img.icons8.com/ios-filled/16/000000/phone.png) 02102400930  
+ ![linkedin](https://img.icons8.com/ios-filled/16/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/young-woo-song-145488217/)  
+ ![email](https://img.icons8.com/ios-filled/16/000000/new-post.png) youngwoo930@gmail.com  
+ ![location](https://img.icons8.com/ios-filled/16/000000/marker.png) Auckland
 
 ---
 
 ## **SUMMARY**
 
-Born in South Korea.  
+Born in South Korea.
 Currently a citizen of New Zealand.
 
-A resilient and proficient individual seeking opportunities to step into the Data Science industry to further progress on expanding professional knowledge and experience. Highly motivated to learn and further refine skills, with a proven ability to learn quickly, adapt, and contribute effectively within team/collaborative environments.
+A resilient and proficient individual transitioning from architecture design to data science, bringing a unique blend of creativity, precision, and problem-solving skills. 
+Experienced in managing complex projects, and collaborating with cross-functional teams. 
+Highly motivated to leverage these skills in the data science industry, with a strong ability to adapt, learn quickly, and contribute effectively within team/collaborative environments. 
+Known for attention to detail, innovative thinking, and a strong work ethic, essential in both design and data professional contexts.
 
 ---
 
