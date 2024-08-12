@@ -22,11 +22,11 @@ Known for attention to detail, innovative thinking, and a strong work ethic, ess
 
 ## **CERTIFICATIONS**
 
-**🎖 Certified Generative AI Expert™** - Blockchain Council
-**🎖 Generative AI: Introduction and Applications** - IBM
-**🎖 Introduction to Artificial Intelligence (AI)** - IBM
-**🎖 Building AI Powered Chatbots Without Programming** - IBM
-**🎖 Generative AI: Prompt Engineering Basics** - IBM
+- **🎖 Certified Generative AI Expert™** - Blockchain Council
+- **🎖 Generative AI: Introduction and Applications** - IBM
+- **🎖 Introduction to Artificial Intelligence (AI)** - IBM
+- **🎖 Building AI Powered Chatbots Without Programming** - IBM
+- **🎖 Generative AI: Prompt Engineering Basics** - IBM
 
 ---
 
