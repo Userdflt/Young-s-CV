@@ -13,7 +13,7 @@
 Born in South Korea.
 Currently a citizen of New Zealand.
 
-A resilient and proficient individual transitioning from architecture design to data science, bringing a unique blend of creativity, precision, and problem-solving skills. 
+A resilient and proficient individual transitioning from architectural industry to data science, bringing a unique blend of creativity, precision, and problem-solving skills. 
 Experienced in managing complex projects, and collaborating with cross-functional teams. 
 Highly motivated to leverage these skills in the data science industry, with a strong ability to adapt, learn quickly, and contribute effectively within team/collaborative environments. 
 Known for attention to detail, innovative thinking, and a strong work ethic, essential in both design and data professional contexts.
