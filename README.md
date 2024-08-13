@@ -20,6 +20,23 @@ Known for attention to detail, innovative thinking, and a strong work ethic, ess
 
 ---
 
+## **Projects**
+
+### [Capstone Project - Building Safer Sites](https://github.com/Userdflt/Capstone_Project---Building-Safer-Sites)
+*Investigating object detection of safety compliance items (PPE gear) at construction sites.*
+
+### [Mini Project 3 - Distinguishing Human vs AI-Generated News](https://github.com/Userdflt/Mini-Project_3_Distinguishing-Human-vs-AI-Generated-News)
+*Developing a model to classify news articles as either "Fake" or "True" using NLP techniques.*
+
+### [Mini Project 2 - NASA Outgassing DB Analysis](https://github.com/Userdflt/Mini_Project_2_NASA-Outgassing-DB)
+*Analyzing NASA's outgassing data and applying machine learning techniques.*
+
+### [Mini Project 1 - YouTube Analytics](https://github.com/Userdflt/Mini-Project_1_YouTube_Analytics)
+*Analyzing trends in YouTube video viewership and category popularity.*
+
+
+---
+
 ## **CERTIFICATIONS**
 
 - **🎖 Certified Generative AI Expert™** - Blockchain Council
