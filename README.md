@@ -1,39 +1,55 @@
 # **YOUNG WOO SONG**
-*Aspiring Data Scientist - Seeking Opportunities*
+*Aspiring AWS Solutions Architect - Passionate about Cloud and Data Science*
 
  ![phone](https://img.icons8.com/ios-filled/16/000000/phone.png) 02102400930  
  ![linkedin](https://img.icons8.com/ios-filled/16/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/young-woo-song-145488217/)  
  ![email](https://img.icons8.com/ios-filled/16/000000/new-post.png) youngwoo930@gmail.com  
- ![location](https://img.icons8.com/ios-filled/16/000000/marker.png) Auckland
+ ![location](https://img.icons8.com/ios-filled/16/000000/marker.png) Papakura, Auckland
 
 ---
 
 ## **SUMMARY**
 
-Born in South Korea.
+Born in South Korea.  
 Currently a citizen of New Zealand.
 
-A resilient and proficient individual transitioning from architectural industry to data science, bringing a unique blend of creativity, precision, and problem-solving skills. 
-Experienced in managing complex projects, and collaborating with cross-functional teams. 
-Highly motivated to leverage these skills in the data science industry, with a strong ability to adapt, learn quickly, and contribute effectively within team/collaborative environments. 
-Known for attention to detail, innovative thinking, and a strong work ethic, essential in both design and data professional contexts.
+A resilient and proficient individual transitioning from the architectural and construction industry to IT, bringing a unique blend of creativity, precision, and problem-solving skills. Experienced in managing complex projects and collaborating with cross-functional teams. Highly motivated to leverage these skills in the IT industry, with a strong ability to adapt, learn quickly, and contribute effectively within team environments. Known for attention to detail, innovative thinking, and a strong work ethic, essential in both design and data professional contexts.
 
 ---
 
-## **Projects**
+## **TECHNICAL SKILLS**
 
-### [Capstone Project - Building Safer Sites](https://github.com/Userdflt/Capstone_Project---Building-Safer-Sites)
-*Investigating object detection of safety compliance items (PPE gear) at construction sites.*
+- **Python (Programming Language)**
+- **Natural Language Processing (NLP)**
+- **SQL**
+- **Extract, Transform, Load (ETL)**
+- **Data Analysis**
+- **Data Visualization**
+- **Convolutional Neural Networks (CNN)**
+- **Deep Learning**
+- **Computer Vision**
+
+## **SOFT SKILLS**
+
+- **Problem Solving**
+- **Communication**
+- **Presentation Skills**
+
+---
+
+## **PROJECTS**
+
+### [Capstone Project - Building Safer Sites](https://github.com/Userdflt/Capstone_Project-Building-Safer-Sites-Computer-Vision-CNN-Model-)
+*Customized object detection model for construction safety monitoring with both object detection & object tracking capabilities.*
 
 ### [Mini Project 3 - Distinguishing Human vs AI-Generated News](https://github.com/Userdflt/Mini-Project_3_Distinguishing-Human-vs-AI-Generated-News)
-*Developing a model to classify news articles as either "Fake" or "True" using NLP techniques.*
+*Build a predictive model to classify news articles as either "Fake" or "True" using Natural Language Processing (NLP) techniques.*
 
 ### [Mini Project 2 - NASA Outgassing DB Analysis](https://github.com/Userdflt/Mini_Project_2_NASA-Outgassing-DB)
 *Analyzing NASA's outgassing data and applying machine learning techniques.*
 
 ### [Mini Project 1 - YouTube Analytics](https://github.com/Userdflt/Mini-Project_1_YouTube_Analytics)
-*Analyzing trends in YouTube video viewership and category popularity.*
-
+*Analyze change in the trend of data science and AI-related videos on YouTube.*
 
 ---
 
@@ -44,6 +60,11 @@ Known for attention to detail, innovative thinking, and a strong work ethic, ess
 - **🎖 Introduction to Artificial Intelligence (AI)** - IBM
 - **🎖 Building AI Powered Chatbots Without Programming** - IBM
 - **🎖 Generative AI: Prompt Engineering Basics** - IBM
+
+### **(Waiting to Receive)**
+
+- **🎖 Data Science and AI - Certificate of Completion** - AUT (Auckland University of Technology)
+- **🎖 Data Science Certificate of Achievement - Industry Certification** - Institute of Data
 
 ---
 
@@ -102,4 +123,3 @@ Known for attention to detail, innovative thinking, and a strong work ethic, ess
 - Volunteered for on-site work.
 
 ---
-
