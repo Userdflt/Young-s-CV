@@ -61,7 +61,7 @@ A resilient and proficient individual transitioning from the architectural and c
 - **🎖 Building AI Powered Chatbots Without Programming** - IBM
 - **🎖 Generative AI: Prompt Engineering Basics** - IBM
 
-### **(Waiting to Receive)**
+### **(Completed Course - Waiting to Receive Certificate)**
 
 - **🎖 Data Science and AI - Certificate of Completion** - AUT (Auckland University of Technology)
 - **🎖 Data Science Certificate of Achievement - Industry Certification** - Institute of Data
@@ -99,6 +99,7 @@ A resilient and proficient individual transitioning from the architectural and c
 
 - Contributed to design stages, including BIM assistance and management.
 - Supported technical documentation processes.
+- Assisted in projects specializing in Age Care projects.
 
 ### **🏢 Architectural Graduate**  
 **Ignite** | *Auckland CBD, New Zealand*  
@@ -106,6 +107,7 @@ A resilient and proficient individual transitioning from the architectural and c
 
 - Managed BIM models and conducted technical drawings using Revit.
 - Produced detailed construction drawings.
+- Assisted in range of different archhitectural projects
 
 ### **🎨 Design Intern**  
 **MONE Design Studio** | *Mt Wellington, Auckland, New Zealand*  
