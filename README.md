@@ -10,10 +10,13 @@
 
 ## **SUMMARY**
 
-Born in South Korea.  
-Currently a citizen of New Zealand.
+With a background in architecture and construction, I am now looking to pivot and delve deeper into the world of data, where my true passions lie. My experience in critical thinking, creative problem-solving, and attention to detail from the architectural discipline has equipped me with transferable skills for data-driven roles.
 
-A resilient and proficient individual transitioning from the architectural and construction industry to IT, bringing a unique blend of creativity, precision, and problem-solving skills. Experienced in managing complex projects and collaborating with cross-functional teams. Highly motivated to leverage these skills in the IT industry, with a strong ability to adapt, learn quickly, and contribute effectively within team environments. Known for attention to detail, innovative thinking, and a strong work ethic, essential in both design and data professional contexts.
+I recently completed my (AUT Accredited), Data Science and AI certification with the Institute of Data gaining hands-on experience in Python, data analysis, machine learning, and AI (LLM and CNN) techniques.
+
+I am now looking to further develop my skills and secure a junior role within the data sector, where I can apply my knowledge to solve real-world problems and drive business success.
+
+Using my skills in Python, Natural Language Processing (NLP), SQL, Data Visualization, Machine Learning, and Deep Learning, I aim to make a positive contribution and continue growing in this exciting field.
 
 ---
 
