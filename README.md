@@ -26,12 +26,17 @@ A resilient and proficient individual transitioning from the architectural and c
 - **Data Analysis**
 - **Data Visualization**
 - **Convolutional Neural Networks (CNN)**
-- **Deep Learning**
+- **Large Language Models (LLM)**
 - **Computer Vision**
 
 ## **SOFT SKILLS**
 
 - **Problem Solving**
+- **Adaptability**
+- **Critical Thinking**
+- **Creative Thinking**
+- **Collaboration Skills**
+- **Project & Time Management**
 - **Communication**
 - **Presentation Skills**
 
