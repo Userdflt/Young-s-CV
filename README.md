@@ -39,6 +39,9 @@ A resilient and proficient individual transitioning from the architectural and c
 
 ## **PROJECTS**
 
+### [RAG from PDFs with Local Vector Storage (ChromaDB), Enhanced Reflection, and Iterative Self-Correction](https://github.com/Userdflt/RAG-from-PDFs-with-Local-Vector-Storage-ChromaDB-Enhanced-Reflection-Iterative-Self-Correction)
+*Customized Local RAG LLM with Enhanced Relfection, and Iterative Self-correction and checking mechanism*
+
 ### [Capstone Project - Building Safer Sites](https://github.com/Userdflt/Capstone_Project-Building-Safer-Sites-Computer-Vision-CNN-Model-)
 *Customized object detection model for construction safety monitoring with both object detection & object tracking capabilities.*
 
@@ -70,8 +73,8 @@ A resilient and proficient individual transitioning from the architectural and c
 
 ## **EDUCATION**
 
-**🎓 Data Science Programme (Industry Certification / Bootcamp), Data Science**  
-*Institute of Data*  
+**🎓 (AUT accredited) Data Science & AI Industry Certification / Bootcamp**  
+*Institute of Data & AUT*  
 *05/2024 - 08/2024*
 
 **🎓 Master of Architecture - MArch (Prof), Architecture**  
