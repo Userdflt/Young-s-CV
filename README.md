@@ -9,14 +9,14 @@
 ---
 
 ## **SUMMARY**
+With a background in architecture and construction, I am now looking to pivot and delve deeper into the world of data, where my true passions lie.
+My experience in critical thinking, creative problem-solving, and attention to detail from the architectural discipline has equipped me with transferable skills
+for data-driven roles. I recently completed my Data Science and AI certification with the Institute of Data (AUT Accredited), gaining hands-on experience in
+Python, date analysis, machine learning, and AI (deep learning) techniques.
 
-With a background in architecture and construction, I am now looking to pivot and delve deeper into the world of data, where my true passions lie. My experience in critical thinking, creative problem-solving, and attention to detail from the architectural discipline has equipped me with transferable skills for data-driven roles.
-
-I recently completed my (AUT Accredited), Data Science and AI certification with the Institute of Data gaining hands-on experience in Python, data analysis, machine learning, and AI (LLM and CNN) techniques.
-
-I am now looking to further develop my skills and secure a junior role within the data sector, where I can apply my knowledge to solve real-world problems and drive business success.
-
-Using my skills in Python, Natural Language Processing (NLP), SQL, Data Visualization, Machine Learning, and Deep Learning, I aim to make a positive contribution and continue growing in this exciting field.
+I am now looking to further develop my skills and secure a junior role within the data sector, where I can apply my knowledge to solve real-world problems
+and drive business success.Using my skills in Python, Natural Language Processing (NLP), SQL, Data Visualization, Machine Learning, and Deep Learning,
+I aim to make a positive contribution and continue growing in this exciting field.
 
 ---
 
@@ -66,16 +66,14 @@ Using my skills in Python, Natural Language Processing (NLP), SQL, Data Visualiz
 
 ## **CERTIFICATIONS**
 
-- **🎖 Certified Generative AI Expert™** - Blockchain Council
-- **🎖 Generative AI: Introduction and Applications** - IBM
-- **🎖 Introduction to Artificial Intelligence (AI)** - IBM
-- **🎖 Building AI Powered Chatbots Without Programming** - IBM
-- **🎖 Generative AI: Prompt Engineering Basics** - IBM
-
-### **(Completed Course - Waiting to Receive Certificate)**
-
 - **🎖 Data Science and AI - Certificate of Completion** - AUT (Auckland University of Technology)
 - **🎖 Data Science Certificate of Achievement - Industry Certification** - Institute of Data
+- **🎖 Certified Generative AI Expert™** - Blockchain Council Online Course
+- **🎖 Python for Data Science, AI & Development** - IBM - Coursera Course
+- **🎖 Generative AI: Introduction and Applications** - IBM - Coursera Course
+- **🎖 Introduction to Artificial Intelligence (AI)** - IBM - Coursera Course
+- **🎖 Building AI Powered Chatbots Without Programming (Watsonx AI)** - IBM - Coursera Course
+- **🎖 Generative AI: Prompt Engineering Basics** - IBM - Coursera Course
 
 ---
 
@@ -101,38 +99,43 @@ Using my skills in Python, Natural Language Processing (NLP), SQL, Data Visualiz
 **RGC** | *New Zealand*  
 *07/2023 - 04/2024*
 
-- Assisted in BIM (Building Information Management) and managed modeling/information data.
-- Managed the implementation of AI tools to enhance productivity.
+- Overall BIM(Building Information Management) assistance / management of modeling and information data.
+- Assistance in updating / creating  Revit information templates for efficient access to building information.
+- Implementing Generative AI tools(ChatGPT + Customized ChatGPTs) for day to day workflow.
+- Integration of Generative image AI tools (Midjourney + Stable Diffusion) for architectural design workflow.
 
 ### **🏢 Designer**  
 **Woods Bagot** | *Auckland, New Zealand*  
 *05/2022 - 06/2023*
 
-- Contributed to design stages, including BIM assistance and management.
-- Supported technical documentation processes.
-- Assisted in projects specializing in Age Care projects.
+- Overall BIM(Building Information Management) assist / management of modeling and information data.
+- Revit technical management assistance.
+- Feasibility Documentation / Design.
+- Quality Assurance / Assistance in construction/digital technical detail.
 
 ### **🏢 Architectural Graduate**  
 **Ignite** | *Auckland CBD, New Zealand*  
 *07/2019 - 03/2022*
 
-- Managed BIM models and conducted technical drawings using Revit.
-- Produced detailed construction drawings.
-- Assisted in range of different archhitectural projects
+- Contributed across a range of different scale projects and design stages.
+- BIM(Building Information Management) modeling and supplier information management.
+- Revit technical management assistance.
+- Construction/digital technical detail assistance.
 
 ### **🎨 Design Intern**  
 **MONE Design Studio** | *Mt Wellington, Auckland, New Zealand*  
 *01/2018 - 05/2018*
 
-- Assisted in designing and refurbishing a small Internet Café.
-- Engaged in 3D modeling, planning, and rendering.
+Worked as a Design Assistant.
+- Design and refurbish a small Internet Cafe.
+- 3D modeling, planning, and rendering.
 
 ### **🛠️ Student Intern**  
 **Chancellor Construction Group** | *East Tamaki, Auckland, New Zealand*  
 *06/2015 - 02/2016*
 
-- Created and managed concept models, data, and renderings for the residential department.
-- Participated in the team for creating the company magazine.
-- Volunteered for on-site work.
+- Create and manage concept, modeling information/ data, rendering visualizations, and plan for the newly opened residential department of the
+   company.
+- Participated in the advertisement team to create a company magazine.
 
 ---
