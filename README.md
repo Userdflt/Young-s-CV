@@ -53,13 +53,13 @@ I aim to make a positive contribution and continue growing in this exciting fiel
 ### [Capstone Project - Building Safer Sites](https://github.com/Userdflt/Capstone_Project-Building-Safer-Sites-Computer-Vision-CNN-Model-)
 *Customized object detection model for construction safety monitoring with both object detection & object tracking capabilities.*
 
-### [Mini Project 3 - Distinguishing Human vs AI-Generated News](https://github.com/Userdflt/Mini-Project_3_Distinguishing-Human-vs-AI-Generated-News)
+### [Distinguishing Human vs AI-Generated News](https://github.com/Userdflt/Mini-Project_3_Distinguishing-Human-vs-AI-Generated-News)
 *Build a predictive model to classify news articles as either "Fake" or "True" using Natural Language Processing (NLP) techniques.*
 
-### [Mini Project 2 - NASA Outgassing DB Analysis](https://github.com/Userdflt/Mini_Project_2_NASA-Outgassing-DB)
+### [Machine Learning Algorithms to Analyze NASA Outgassing Data for Material Performance](https://github.com/Userdflt/Mini_Project_2_NASA-Outgassing-DB)
 *Analyzing NASA's outgassing data and applying machine learning techniques.*
 
-### [Mini Project 1 - YouTube Analytics](https://github.com/Userdflt/Mini-Project_1_YouTube_Analytics)
+### [YouTube Analytics](https://github.com/Userdflt/Mini-Project_1_YouTube_Analytics)
 *Analyze change in the trend of data science and AI-related videos on YouTube.*
 
 ---
