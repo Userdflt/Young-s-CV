@@ -25,7 +25,6 @@ I aim to make a positive contribution and continue growing in this exciting fiel
 - **Python (Programming Language)**
 - **Natural Language Processing (NLP)**
 - **SQL**
-- **Extract, Transform, Load (ETL)**
 - **Data Analysis**
 - **Data Visualization**
 - **Convolutional Neural Networks (CNN)**
