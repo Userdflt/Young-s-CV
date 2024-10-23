@@ -49,7 +49,7 @@ I aim to make a positive contribution and continue growing in this exciting fiel
 ### [Wind-Turbine-Power-Output-Forecasting](https://github.com/Userdflt/Wind-Turbine-Power-Output-Forecasting)
 *Developed a regression model to accurately forecast power output using historical weather and time data for efficient energy management.*
 
-### [RAG from PDFs with Local Vector Storage (ChromaDB), Enhanced Reflection, and Iterative Self-Correction](https://github.com/Userdflt/RAG-from-PDFs-with-Local-Vector-Storage-ChromaDB-Enhanced-Reflection-Iterative-Self-Correction)
+### [ReflectiveRAG: Self-Correcting Retrieval-Augmented Generation with Local Vector Storage](https://github.com/Userdflt/ReflectiveRAG-Self-Correcting-Retrieval-Augmented-Generation-with-Local-Vector-Storage)
 *Customized Local RAG LLM with Enhanced Reflection, and Iterative Self-correction and checking mechanism*
 
 ### [Capstone Project - Building Safer Sites](https://github.com/Userdflt/Capstone_Project-Building-Safer-Sites-Computer-Vision-CNN-Model-)
