@@ -70,7 +70,7 @@ I aim to make a positive contribution and continue growing in this exciting fiel
 
 - **🎖 Data Science and AI - Certificate of Completion** - AUT (Auckland University of Technology)
 - **🎖 Data Science Certificate of Achievement - Industry Certification** - Institute of Data
-- **🎖 Certified Generative AI Expert (ChatGPT)™** - Blockchain Council Online Course
+- **🎖 Certified Generative AI Expert (ChatGPT)** - Blockchain Council Online Course
 - **🎖 Python for Data Science, AI & Development** - IBM - Coursera Course
 - **🎖 Generative AI: Introduction and Applications** - IBM - Coursera Course
 - **🎖 Introduction to Artificial Intelligence (AI)** - IBM - Coursera Course
