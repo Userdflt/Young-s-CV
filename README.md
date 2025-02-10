@@ -47,7 +47,8 @@ I am actively seeking entry-level or junior opportunities in AI-related fields a
 ## **CERTIFICATIONS**
 
 ### 🎖 IBM Generative AI Engineering – Professional Certificate (02/10/2025)  
-*Completed 16 in-depth courses with hands-on practical experience.*  
+*Completed 16 in-depth courses with hands-on practical experience.* 
+
 <a href="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/refs/heads/main/certificates/Coursera%20GZAU70GSFTGY.pdf">
   <img src="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/refs/heads/main/certificates/IBM_Certification.png" alt="IBM Generative AI Engineering" width="100" height="100">
 </a>  
@@ -56,6 +57,7 @@ I am actively seeking entry-level or junior opportunities in AI-related fields a
 
 ### 🎖 Data Science Certificate of Achievement – Industry Certification  
 *Auckland University of Technology (AUT), Institute of Data*  
+
 <a href="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/ea5f756fab028ede89224e919ce3f986c61595b9/certificates/Young%20Woo%20Song_IoD_Data%20Science%20Certificate_2.pdf">
   <img src="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/refs/heads/main/certificates/IoD_Certificate.png" alt="IoD Data Science Certificate" width="100" height="100">
 </a>  <a href="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/ea5f756fab028ede89224e919ce3f986c61595b9/certificates/Young%20Woo%20Song_AUT_Data%20Science%20Certificate_2.pdf">
