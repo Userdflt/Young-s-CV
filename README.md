@@ -1,27 +1,29 @@
 # **YOUNG WOO SONG**
 *Aspiring AI & Data Professional*
 
- ![phone](https://img.icons8.com/ios-filled/16/000000/phone.png) 02102400930  
- ![linkedin](https://img.icons8.com/ios-filled/16/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/young-woo-song-145488217/)  
- ![email](https://img.icons8.com/ios-filled/16/000000/new-post.png) youngwoo930@gmail.com  
- ![location](https://img.icons8.com/ios-filled/16/000000/marker.png) Papakura, Auckland
+![phone](https://img.icons8.com/ios-filled/16/000000/phone.png) 02102400930  
+![linkedin](https://img.icons8.com/ios-filled/16/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/young-woo-song-145488217/)  
+![email](https://img.icons8.com/ios-filled/16/000000/new-post.png) youngwoo930@gmail.com  
+![location](https://img.icons8.com/ios-filled/16/000000/marker.png) Papakura, Auckland
 
 ---
 
 ## **SUMMARY**
-With a background in architecture and construction, I am now looking to pivot and delve deeper into the world of data, where my true passions lie.
-My experience in critical thinking, creative problem-solving, and attention to detail from the architectural discipline has equipped me with transferable skills
-for data-driven roles. I recently completed my Data Science and AI certification with the Institute of Data (AUT Accredited), gaining hands-on experience in
-Python, date analysis, machine learning, and AI (deep learning) techniques.
 
-I am now looking to further develop my skills and secure a junior role within the data sector, where I can apply my knowledge to solve real-world problems
-and drive business success.Using my skills in Python, Natural Language Processing (NLP), SQL, Data Visualization, Machine Learning, and Deep Learning,
-I aim to make a positive contribution and continue growing in this exciting field.
+With a background in architecture and construction, I have transitioned into AI & Data Profession, applying problem-solving, analytical thinking, and attention to detail to data-driven and AI challenges. My ability to learn quickly and adapt allows me to bridge structured problem-solving from architecture with dynamic, real-world AI and machine learning applications.
+
+I recently completed both the Data Science and AI Certification (AUT Accredited, Institute of Data) and the IBM Generative AI Engineering Professional Certificate, gaining expertise in Data Science, Artificial Intelligence (Generative AI), transformers, attention mechanisms, prompt engineering, and building RAG (Retrieval-Augmented Generation) applications.
+
+### **What I Bring to the Table**
+- **Analytical & Critical Thinking** – Combining problem-solving and decision-making skills.  
+- **Fast Learner & Adaptable** – Quickly grasping complex concepts (both theoretical and practical).  
+- **Creative Mindset** – Merging analytical thinking with innovative approaches to tackle complex challenges.
+
+I am actively seeking entry-level or junior opportunities in AI-related fields and machine learning, where I can apply my skills to solve real-world challenges and contribute to impactful projects. If you’re looking for a professional with technical expertise, creative problem-solving skills, and a fresh perspective, please contact.
 
 ---
 
 ## **TECHNICAL SKILLS**
-
 - **Python (Programming Language)**
 - **Natural Language Processing (NLP)**
 - **SQL**
@@ -32,7 +34,6 @@ I aim to make a positive contribution and continue growing in this exciting fiel
 - **Computer Vision**
 
 ## **SOFT SKILLS**
-
 - **Problem Solving**
 - **Adaptability**
 - **Critical Thinking**
@@ -44,42 +45,46 @@ I aim to make a positive contribution and continue growing in this exciting fiel
 
 ---
 
+## **CERTIFICATIONS**
+
+- **🎖 IBM Generative AI Engineering – Professional Certificate (02/10/2025)**  
+  *Completed 16 in-depth courses with hands on practical experience.
+  
+- **🎖 Data Science Certificate of Achievement – Industry Certification**  
+  *AUT (Auckland University of Technology), Institute of Data*
+
+- **🎖 Certified Generative AI Expert (ChatGPT)**  
+  *Blockchain Council Online Course*
+
+---
+
 ## **PROJECTS**
 
 ### [Wind-Turbine-Power-Output-Forecasting](https://github.com/Userdflt/Wind-Turbine-Power-Output-Forecasting)
 *Developed a regression model to accurately forecast power output using historical weather and time data for efficient energy management.*
 
 ### [Adaptive Local LLM Agent for Self-Correcting Retrieval-Augmented Generation (RAG)](https://github.com/Userdflt/Adaptive-Local-LLM-Agent-for-Self-Correcting-Retrieval-Augmented-Generation-RAG-)
-*Retrieval-Augmented Generation (RAG) from PDFs with Local Vector Storage (ChromaDB), Enhanced Reflection, and Iterative Self-Correction*
+*Implemented Retrieval-Augmented Generation (RAG) from PDFs with local vector storage (ChromaDB), enhanced reflection, and iterative self-correction.*
 
 ### [Capstone Project - Building Safer Sites](https://github.com/Userdflt/Capstone_Project-Building-Safer-Sites-Computer-Vision-CNN-Model-)
-*Customized object detection model for construction safety monitoring with both object detection & object tracking capabilities.*
+*Customized object detection model for construction safety monitoring with both object detection & tracking capabilities.*
 
 ### [Distinguishing Human vs AI-Generated News](https://github.com/Userdflt/Mini-Project_3_Distinguishing-Human-vs-AI-Generated-News)
-*Build a predictive model to classify news articles as either "Fake" or "True" using Natural Language Processing (NLP) techniques.*
+*Built a predictive model to classify news articles as either "Fake" or "True" using Natural Language Processing (NLP) techniques.*
 
 ### [Machine Learning Algorithms to Analyze NASA Outgassing Data for Material Performance](https://github.com/Userdflt/Mini_Project_2_NASA-Outgassing-DB)
-*Analyzing NASA's outgassing data and applying machine learning techniques.*
+*Analyzed NASA’s outgassing data and applied machine learning techniques.*
 
 ### [YouTube Analytics](https://github.com/Userdflt/Mini-Project_1_YouTube_Analytics)
-*Analyze change in the trend of data science and AI-related videos on YouTube.*
-
----
-
-## **CERTIFICATIONS**
-
-- **🎖 Data Science and AI - Certificate of Completion** - AUT (Auckland University of Technology)
-- **🎖 Data Science Certificate of Achievement - Industry Certification** - Institute of Data
-- **🎖 Certified Generative AI Expert (ChatGPT)** - Blockchain Council Online Course
-- **🎖 Python for Data Science, AI & Development** - IBM - Coursera Course
-- **🎖 Generative AI: Introduction and Applications** - IBM - Coursera Course
-- **🎖 Introduction to Artificial Intelligence (AI)** - IBM - Coursera Course
-- **🎖 Building AI Powered Chatbots Without Programming (Watsonx AI)** - IBM - Coursera Course
-- **🎖 Generative AI: Prompt Engineering Basics** - IBM - Coursera Course
+*Explored trends in data science and AI-related videos on YouTube.*
 
 ---
 
 ## **EDUCATION**
+
+**🎓 IBM Generative AI Engineering – Professional Certificate**  
+*Coursera (Online)*  
+*08/2024 - 02/2025*  
 
 **🎓 (AUT accredited) Data Science & AI Industry Certification / Bootcamp**  
 *Institute of Data & AUT*  
@@ -99,45 +104,36 @@ I aim to make a positive contribution and continue growing in this exciting fiel
 
 ### **🏢 Graduate Architect**  
 **RGC** | *New Zealand*  
-*07/2023 - 04/2024*
-
-- Overall BIM(Building Information Management) assistance / management of modeling and information data.
-- Assistance in updating / creating  Revit information templates for efficient access to building information.
-- Implementing Generative AI tools(ChatGPT + Customized ChatGPTs) for day to day workflow.
-- Integration of Generative image AI tools (Midjourney + Stable Diffusion) for architectural design workflow.
+*07/2023 - 04/2024*  
+- BIM (Building Information Management) assistance / management of modeling and information data.  
+- Updating / creating Revit information templates for efficient access to building information.  
+- Implementing Generative AI tools (ChatGPT + Customized ChatGPTs) for day-to-day workflow.  
+- Integrating generative image AI tools (Midjourney + Stable Diffusion) for architectural design workflows.
 
 ### **🏢 Designer**  
 **Woods Bagot** | *Auckland, New Zealand*  
-*05/2022 - 06/2023*
-
-- Overall BIM(Building Information Management) assist / management of modeling and information data.
-- Revit technical management assistance.
-- Feasibility Documentation / Design.
-- Quality Assurance / Assistance in construction/digital technical detail.
+*05/2022 - 06/2023*  
+- BIM (Building Information Management) modeling and data management.  
+- Revit technical management assistance.  
+- Feasibility documentation and design.  
+- Quality Assurance and support for construction/digital technical detail.
 
 ### **🏢 Architectural Graduate**  
 **Ignite** | *Auckland CBD, New Zealand*  
-*07/2019 - 03/2022*
-
-- Contributed across a range of different scale projects and design stages.
-- BIM(Building Information Management) modeling and supplier information management.
-- Revit technical management assistance.
-- Construction/digital technical detail assistance.
+*07/2019 - 03/2022*  
+- Contributed to projects of varying scales and design stages.  
+- BIM modeling and supplier information management.  
+- Revit technical management assistance.  
+- Provided construction/digital technical detail support.
 
 ### **🎨 Design Intern**  
-**MONE Design Studio** | *Mt Wellington, Auckland, New Zealand*  
-*01/2018 - 05/2018*
-
-Worked as a Design Assistant.
-- Design and refurbish a small Internet Cafe.
-- 3D modeling, planning, and rendering.
+**MONE Design Studio** | *Mt Wellington, Auckland*  
+*01/2018 - 05/2018*  
+- Served as a Design Assistant, focusing on design and refurbishment for a small Internet Cafe.  
+- Handled 3D modeling, planning, and rendering.
 
 ### **🛠️ Student Intern**  
-**Chancellor Construction Group** | *East Tamaki, Auckland, New Zealand*  
-*06/2015 - 02/2016*
-
-- Create and manage concept, modeling information/ data, rendering visualizations, and plan for the newly opened residential department of the
-   company.
-- Participated in the advertisement team to create a company magazine.
-
----
+**Chancellor Construction Group** | *East Tamaki, Auckland*  
+*06/2015 - 02/2016*  
+- Created and managed concept modeling, data, rendering, and planning for a new residential department.  
+- Collaborated with the advertisement team to develop a company magazine.
