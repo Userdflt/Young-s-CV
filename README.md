@@ -1,5 +1,4 @@
-# **YOUNG WOO SONG**
-*Aspiring AI & Data Professional*
+### *Aspiring AI & Data Professional*
 
 ![phone](https://img.icons8.com/ios-filled/16/000000/phone.png) 02102400930  
 ![linkedin](https://img.icons8.com/ios-filled/16/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/young-woo-song-145488217/)  
