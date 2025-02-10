@@ -48,26 +48,19 @@ I am actively seeking entry-level or junior opportunities in AI-related fields a
 
 ### 🎖 IBM Generative AI Engineering – Professional Certificate (02/10/2025)  
 *Completed 16 in-depth courses with hands-on practical experience.*  
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/refs/heads/main/certificates/Coursera%20GZAU70GSFTGY.pdf">
-    <img src="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/main/certificates/IBM_Certification_Cropped.png" alt="IBM Generative AI Engineering" width="250">
-  </a>
-</p>
+<a href="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/refs/heads/main/certificates/Coursera%20GZAU70GSFTGY.pdf">
+  <img src="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/main/certificates/IBM_Certification_Cropped.png" alt="IBM Generative AI Engineering" width="150" height="100">
+</a>  
 
 ---
 
 ### 🎖 Data Science Certificate of Achievement – Industry Certification  
 *Auckland University of Technology (AUT), Institute of Data*  
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/main/certificates/Young_Woo_Song_IoD_Data_Science_Certificate_2.pdf">
-    <img src="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/main/certificates/IoD_Certificate_Cropped.png" alt="IoD Data Science Certificate" width="200">
-  </a>
-  <a href="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/main/certificates/Young_Woo_Song_AUT_Data_Science_Certificate_2.pdf">
-    <img src="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/main/certificates/AUT_Certificate_Cropped.png" alt="AUT Data Science Certificate" width="200">
-  </a>
-</p>
+<a href="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/main/certificates/Young_Woo_Song_IoD_Data_Science_Certificate_2.pdf">
+  <img src="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/main/certificates/IoD_Certificate_Cropped.png" alt="IoD Data Science Certificate" width="150" height="100">
+</a>  <a href="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/main/certificates/Young_Woo_Song_AUT_Data_Science_Certificate_2.pdf">
+  <img src="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/main/certificates/AUT_Certificate_Cropped.png" alt="AUT Data Science Certificate" width="150" height="100">
+</a>  
 
 ---
 
