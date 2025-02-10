@@ -76,7 +76,7 @@ I am actively seeking entry-level or junior opportunities in AI-related fields a
 *Implemented Retrieval-Augmented Generation (RAG) from PDFs with local vector storage (ChromaDB), enhanced reflection, and iterative self-correction.*
 
 ### [Capstone Project - Building Safer Sites](https://github.com/Userdflt/Capstone_Project-Building-Safer-Sites-Computer-Vision-CNN-Model-)
-*Customized object detection model for construction safety monitoring with both object detection & tracking capabilities.*
+*Fine-Tuned YOLO object detection model for construction safety monitoring with both object detection & tracking capabilities.*
 
 ### [Wind-Turbine-Power-Output-Forecasting](https://github.com/Userdflt/Wind-Turbine-Power-Output-Forecasting)
 *Developed a regression model to accurately forecast power output using historical weather and time data for efficient energy management.*
