@@ -58,8 +58,7 @@ I am actively seeking entry-level or junior opportunities in AI-related fields a
 *Auckland University of Technology (AUT), Institute of Data*  
 <a href="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/ea5f756fab028ede89224e919ce3f986c61595b9/certificates/Young%20Woo%20Song_IoD_Data%20Science%20Certificate_2.pdf">
   <img src="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/refs/heads/main/certificates/IoD_Certificate.png" alt="IoD Data Science Certificate" width="100" height="100">
-</a>  
-<a href="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/ea5f756fab028ede89224e919ce3f986c61595b9/certificates/Young%20Woo%20Song_AUT_Data%20Science%20Certificate_2.pdf">
+</a>  <a href="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/ea5f756fab028ede89224e919ce3f986c61595b9/certificates/Young%20Woo%20Song_AUT_Data%20Science%20Certificate_2.pdf">
   <img src="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/refs/heads/main/certificates/AUT_Certificate.png" alt="AUT Data Science Certificate" width="100" height="100">
 </a>  
 
