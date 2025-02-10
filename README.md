@@ -46,7 +46,9 @@ I am actively seeking entry-level or junior opportunities in AI-related fields a
 ---
 
 ## **CERTIFICATIONS**
-[![IBM Generative AI Engineering](https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/refs/heads/main/certificates/IBM_Certification.png)](https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/refs/heads/main/certificates/Coursera%20GZAU70GSFTGY.pdf)  
+<a href="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/refs/heads/main/certificates/Coursera%20GZAU70GSFTGY.pdf">
+  <img src="https://raw.githubusercontent.com/Userdflt/Young-s-Portfolio/refs/heads/main/certificates/IBM_Certification.png" alt="IBM Generative AI Engineering" width="100">
+</a>  
 - **🎖 IBM Generative AI Engineering – Professional Certificate (02/10/2025)**  
   *Completed 16 in-depth courses with hands-on practical experience.*
   
