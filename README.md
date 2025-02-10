@@ -72,14 +72,14 @@ I am actively seeking entry-level or junior opportunities in AI-related fields a
 
 ## **PROJECTS**
 
-### [Wind-Turbine-Power-Output-Forecasting](https://github.com/Userdflt/Wind-Turbine-Power-Output-Forecasting)
-*Developed a regression model to accurately forecast power output using historical weather and time data for efficient energy management.*
-
 ### [Adaptive Local LLM Agent for Self-Correcting Retrieval-Augmented Generation (RAG)](https://github.com/Userdflt/Adaptive-Local-LLM-Agent-for-Self-Correcting-Retrieval-Augmented-Generation-RAG-)
 *Implemented Retrieval-Augmented Generation (RAG) from PDFs with local vector storage (ChromaDB), enhanced reflection, and iterative self-correction.*
 
 ### [Capstone Project - Building Safer Sites](https://github.com/Userdflt/Capstone_Project-Building-Safer-Sites-Computer-Vision-CNN-Model-)
 *Customized object detection model for construction safety monitoring with both object detection & tracking capabilities.*
+
+### [Wind-Turbine-Power-Output-Forecasting](https://github.com/Userdflt/Wind-Turbine-Power-Output-Forecasting)
+*Developed a regression model to accurately forecast power output using historical weather and time data for efficient energy management.*
 
 ### [Distinguishing Human vs AI-Generated News](https://github.com/Userdflt/Mini-Project_3_Distinguishing-Human-vs-AI-Generated-News)
 *Built a predictive model to classify news articles as either "Fake" or "True" using Natural Language Processing (NLP) techniques.*
