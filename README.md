@@ -25,7 +25,10 @@ I am actively seeking entry-level or junior opportunities in AI-related fields a
 ## **TECHNICAL SKILLS**
 - **Python (Programming Language)**
 - **Natural Language Processing (NLP)**
-- **SQL**
+- **LangChain**
+- **LangGraph**
+- **Keras**
+- **PyTorch**
 - **Data Analysis**
 - **Data Visualization**
 - **Convolutional Neural Networks (CNN)**
