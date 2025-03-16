@@ -71,6 +71,9 @@ I am actively seeking entry-level or junior opportunities in AI-related fields a
 ---
 
 ## **PROJECTS**
+### [CodeVision NZ: Intelligent Building Code Retrieval](https://github.com/Userdflt/CodeVision-NZ-Intelligent-Building-Code-Retrieval)
+*CodeVision NZ is an AI-powered personal project designed to simplify information retrieval from the New Zealand Building Code documentation. 
+Leveraging open-source technologies, it efficiently extracts, indexes, and retrieves textual and visual data from PDF documents.*
 
 ### [Adaptive Local LLM Agent for Self-Correcting Retrieval-Augmented Generation (RAG)](https://github.com/Userdflt/Adaptive-Local-LLM-Agent-for-Self-Correcting-Retrieval-Augmented-Generation-RAG-)
 *Implemented Retrieval-Augmented Generation (RAG) from PDFs with local vector storage (ChromaDB), enhanced reflection, and iterative self-correction.*
