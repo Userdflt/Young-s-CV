@@ -74,6 +74,11 @@ I am actively seeking entry-level or junior opportunities in AI-related fields a
 ---
 
 ## **PROJECTS**
+
+### [Stable Diffusion XL Interactive Sketch & Inpainting Tool](https://github.com/Userdflt/InteractiveSketchToRender)
+*This is a personal project designed to transform rough sketches into photorealistic outputs and facilitate inpainting edits. 
+Leveraging open-source Stable Diffusion XL pipelines, it integrates ControlNet for robust sketch-based guidance and offers an intuitive Tkinter interface for generating, refining, and saving high-quality imagery.*
+
 ### [CodeVision NZ: Intelligent Building Code Retrieval](https://github.com/Userdflt/CodeVision-NZ-Intelligent-Building-Code-Retrieval)
 *CodeVision NZ is an AI-powered personal project designed to simplify information retrieval from the New Zealand Building Code documentation. 
 Leveraging open-source technologies, it efficiently extracts, indexes, and retrieves textual and visual data from PDF documents.*
